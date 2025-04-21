@@ -1,76 +1,65 @@
-<div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GwanHyeon%20Github!&fontSize=70" />	
 </div>
 
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  
-  ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
-  
-  ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
-  <br/>
-  
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align=center><h2>🧑 Career</h2>
+
+☀️
+
+🏫 Shinhan Univ. Software Convergence Department '19 ( 2019.03 ~ ing )
+
+🏫 실종자 찾기 시스템 "F-M-P" 개발 ( 2022.09 ~ 2023.06 )
+
+👨‍🎓 한국정보인재개발원 파이썬프로그래밍활용능력 2급 수료 ( 2023.03 ~ 2023.04 )
+
+👨‍🎓 한국정보인재개발원 인공지능활용분석 2급 수료 ( 2023.04 ~ 2023.06 )
+
+🏫 요양원 환자의 낙상 방지 알리미 시스템 개발 ( 2023.09 ~ 2024.01 )
+
+🏫 졸음운전 교통사고 방지 알리미 기획 및 개발 ( 2023.10 ~ 2023.12 )
+
+🥉 IP기반 창업아이디어 경진대회에서 낙상 방지 알리미 시스템 개발 (최우수상 수상) (2023.12)
+
+🏫 대화형 교육용 Ai 키오스크 서비스 "SUHO" 개발 ( 2024.03 ~ 2024.11 )
+
+👨‍🎓 한국정보인재개발원 빅데이터분석실무 2급 수료 ( 2024.06 ~ 2024.07)
+
+👨‍🎓 LG Aimers/Data Intelligence 5기 수료 ( 2024.07 ~ 2024.09 )
+
+
+
+👜 (현)sk쉴더스 지능형 Ai 애플리케이션 개발자 양성 과정 2기( 2024.12 ~ 2025.06 )
+
+</div> 
+<div align=center>
+	<h2>📚 Tech Stack 📚</h2>
+	<p>✨ Platforms & Languages ✨</p>
 </div>
+<div align="center">
+<h3>프론트</h3>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <br>
+<h3>백엔드</h3>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEON-CODE&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HYEON-CODE&show_icons=true"><br><br>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rhksgus20)](https://solved.ac/rhksgus20)
+ 
+<div align=center><h2>📑 Certificate </h2>
 
-<!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+파이썬프로그래밍활용능력 2급(2023.04)
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+인공지능활용분석 2급 (2023.06)
+
+정보처리기사(필기)
+
+</div>
