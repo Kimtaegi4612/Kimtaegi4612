@@ -5,7 +5,6 @@
 
 <div align=center><h2>🧑 Career</h2>
 
-☀️
 
 🏫 Shinhan Univ. Software Convergence Department '19 ( 2019.03 ~ ing )
 
